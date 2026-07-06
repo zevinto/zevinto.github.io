@@ -1,0 +1,18 @@
+# 1. 依赖包（绝对不能传，体积巨大，云端会自动执行 npm install 安装）
+node_modules/
+
+# 2. 本地打包生成的静态网页目录（不需要传，因为云端 GitHub Actions 会自己重新打包生成）
+.vitepress/dist/
+
+# 3. VitePress 的本地缓存和临时文件（频繁变动，无需跟踪）
+.vitepress/cache/
+
+# 4. 操作系统与编辑器的缓存文件
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 5. 各种本地环境变量、密钥文件（保护隐私）
+.env
+.env.local
