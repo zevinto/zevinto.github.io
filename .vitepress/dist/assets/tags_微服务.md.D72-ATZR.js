@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as e}from"./chunks/framework.Cg26GRW2.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{"layout":false},"headers":[],"params":{"tag":"微服务"},"relativePath":"tags/微服务.md","filePath":"tags/[tag].md"}'),s={name:"tags/微服务.md"};function r(o,c,n,_,p,d){return a(),e("div")}const f=t(s,[["render",r]]);export{m as __pageData,f as default};

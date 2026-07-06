@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.Cg26GRW2.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{"layout":false},"headers":[],"relativePath":"tags/index.md","filePath":"tags/index.md"}'),s={name:"tags/index.md"};function n(o,r,c,d,i,p){return t(),a("div")}const l=e(s,[["render",n]]);export{f as __pageData,l as default};

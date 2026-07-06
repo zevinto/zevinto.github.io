@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as e}from"./chunks/framework.Cg26GRW2.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{"layout":false},"headers":[],"params":{"tag":"算法"},"relativePath":"tags/算法.md","filePath":"tags/[tag].md"}'),s={name:"tags/算法.md"};function r(o,c,n,_,p,d){return a(),e("div")}const f=t(s,[["render",r]]);export{m as __pageData,f as default};

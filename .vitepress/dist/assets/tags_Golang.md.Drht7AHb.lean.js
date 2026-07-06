@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as e}from"./chunks/framework.Cg26GRW2.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{"layout":false},"headers":[],"params":{"tag":"Golang"},"relativePath":"tags/Golang.md","filePath":"tags/[tag].md"}'),o={name:"tags/Golang.md"};function s(n,r,c,l,p,_){return t(),e("div")}const i=a(o,[["render",s]]);export{g as __pageData,i as default};
